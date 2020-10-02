@@ -1,7 +1,7 @@
 Feature: EndtoEnd search
 
 
-Scenario: EndtoEnd search by existing user
+Scenario: End toEnd search by existing user
 
 Given User is on login page
 When User enters username
